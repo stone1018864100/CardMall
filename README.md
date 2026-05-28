@@ -184,35 +184,7 @@ npm install
 # 启动开发服务器
 npm run dev
 
-# 构建生产版本
-npm run build
 ```
-
-### Docker 部署
-
-```bash
-# 构建项目
-npm run build
-
-# 启动容器
-docker compose up -d
-
-# 访问 http://your-server-ip:39527
-```
-
----
-
-## 🤝 贡献指南
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
-
----
 
 ## 📝 开源协议
 
